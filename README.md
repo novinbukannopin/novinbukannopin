@@ -1,4 +1,4 @@
-![Profile Image](Group 43.png)
+![Profile Image](banner.png)
 
 
 - 👋 Hi, I’m @novinbukannopin, 
