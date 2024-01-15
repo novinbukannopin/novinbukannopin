@@ -1,3 +1,6 @@
+![Profile Image](Group 43.png)
+
+
 - 👋 Hi, I’m @novinbukannopin, 
 - 👀 I’m interested in Computer Science, Web Developer, Data, Cyber Security, etc
 - 🌱 I’m currently learning Information System - Bachelor
