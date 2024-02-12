@@ -1,7 +1,5 @@
-Hey There! 👋
-
-I'm Novin (he/they) - I'm a fullstuck developer wkwkwk. I'm interested in development, moderation, and building thriving online communities.
-
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,express,git,github,mysql,nextjs,nginx,nodejs,postgres,postman,prisma,react,svelte,tailwind,vercel)](https://skillicons.dev)
 
