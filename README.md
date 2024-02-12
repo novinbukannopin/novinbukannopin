@@ -1,5 +1,8 @@
 ![Profile Image](banner.png)
 ![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 - 👋 Hi, I’m @novinbukannopin, 
 - 👀 I’m interested in Computer Science, Web Developer, Data, Cyber Security, etc
