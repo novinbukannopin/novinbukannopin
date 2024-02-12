@@ -1,9 +1,10 @@
 Hey There! 👋
 
-I'm Novin (he/they) - I'm a fullstuck developer wkwkwk. I'm interested in development, moderation, and building thriving online communities. 
+I'm Novin (he/they) - I'm a fullstuck developer wkwkwk. I'm interested in development, moderation, and building thriving online communities.
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,express,git,github,mysql,nextjs,nginx,nodejs,postgres,postman,prisma,react,svelte,tailwind,vercel)](https://skillicons.dev)
 
-![Profile Image](banner.png)
 ![Metrics](/github-metrics.svg)
 
 ![Novin's GitHub stats](https://github-readme-stats.vercel.app/api?username=novinbukannopin&show_icons=true)
