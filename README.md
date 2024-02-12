@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,express,git,github,mysql,nextjs,nginx,nodejs,postgres,postman,prisma,react,svelte,tailwind,vercel)](https://skillicons.dev)
+
 ![Profile Image](banner.png)
 ![Metrics](/github-metrics.svg)
 
