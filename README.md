@@ -8,6 +8,7 @@ I'm Novin (he/they) - I'm a fullstuck developer wkwkwk. I'm interested in develo
 ![Metrics](/github-metrics.svg)
 
 ![Novin's GitHub stats](https://github-readme-stats.vercel.app/api?username=novinbukannopin&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novinbukannopin)]
 
 - 👋 Hi, I’m @novinbukannopin, 
 - 👀 I’m interested in Computer Science, Web Developer, Data, Cyber Security, etc
