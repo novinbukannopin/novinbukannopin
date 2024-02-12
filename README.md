@@ -1,5 +1,6 @@
 ![Profile Image](banner.png)
 ![Metrics](/github-metrics.svg)
+![Metrics](metrics.plugin.topics.svg)
 
 
 - 👋 Hi, I’m @novinbukannopin, 
