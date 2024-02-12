@@ -1,7 +1,7 @@
 ![Profile Image](banner.png)
 ![Metrics](/github-metrics.svg)
-![Metrics](metrics.plugin.topics.svg)
 
+![Novin's GitHub stats](https://github-readme-stats.vercel.app/api?username=novinbukannopin&show_icons=true)
 
 - 👋 Hi, I’m @novinbukannopin, 
 - 👀 I’m interested in Computer Science, Web Developer, Data, Cyber Security, etc
