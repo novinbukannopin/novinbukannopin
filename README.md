@@ -1,7 +1,7 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,express,git,github,mysql,nextjs,nginx,nodejs,postgres,postman,prisma,react,svelte,tailwind,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,express,git,github,mysql,nextjs,nestjs,nginx,nodejs,postgres,postman,prisma,react,svelte,tailwind,vercel,webstorm)](https://skillicons.dev)
 
 ![Metrics](/github-metrics.svg)
 
