@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 9,14 * * 1-5"
+    - cron: "0 9 * * 1-5"  
 
 jobs:
   auto_commit:
@@ -18,12 +18,20 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
+      - name: Check if commit should be made today
+        id: random_check
+        run: |
+          random_number=$((RANDOM % 2))
+          echo "::set-output name=do_commit::$random_number"
+        
       - name: Modify last update
+        if: steps.random_check.outputs.do_commit == '1'
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
-          
+
       - name: Commit changes
+        if: steps.random_check.outputs.do_commit == '1'
         run: |
           git config --local user.email "novinardiany@outlook.com"
           git config --local user.name "novinbukannopin"
@@ -43,8 +51,9 @@ jobs:
           rand=$[$RANDOM % ${#arr[@]}]
           
           git commit -m "${arr[$rand]}"
-          
+
       - name: GitHub Push
+        if: steps.random_check.outputs.do_commit == '1'
         uses: ad-m/github-push-action@v0.8.0
         with:
           directory: "."
