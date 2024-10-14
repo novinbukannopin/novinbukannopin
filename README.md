@@ -4,12 +4,12 @@ Sekarang udah jarang Ngoding, lebih sering **Analisis Sistem** - **Management Pr
 Tapi yaa masih bisa Ngoding kok wkwkwk hehehe.
 
 tapi akhir akhir ini malah sering mainan Python untuk Skripsian, doain lancar yaa, aamiinn....
-<br/>
+
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,pycharm)](https://skillicons.dev)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nestjs,cypress,docker,express,grafana,mysql,nextjs,nestjs,nginx,nodejs,postgres,postman,prisma,react,tailwind,vercel,webstorm&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nestjs,cypress,docker,express,grafana,mysql,nextjs,nestjs,nginx,nodejs,postgres,postman,prisma,react,tailwind,vercel,webstorm&perline=6)](https://skillicons.dev)
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
