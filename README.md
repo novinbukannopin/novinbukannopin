@@ -4,6 +4,7 @@ Sekarang udah jarang Ngoding, lebih sering **Analisis Sistem** - **Management Pr
 Tapi yaa masih bisa Ngoding kok wkwkwk hehehe.
 
 tapi akhir akhir ini malah sering mainan Python untuk Skripsian, doain lancar yaa, aamiinn....
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,pycharm)](https://skillicons.dev)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
