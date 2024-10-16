@@ -13,9 +13,10 @@ tapi akhir akhir ini malah sering mainan Python untuk Skripsian, doain lancar ya
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
-  <a href="https://www.linkedin.com/in/novin-ardian-yulianto"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Project-Management-_.svg?logo=java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/System-Analyst-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/System-Design-_.svg"></a>
+  <a href="https://www.linkedin.com/in/novin-ardian-yulianto"><img src="https://img.shields.io/badge/LinkedIn-_.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Project-Management-_.svg?style=for-the-badge&logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/System-Analyst-_.svg?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/System-Design-_.svg?style=for-the-badge"></a>
 </p>
 
+![](https://img.shields.io/github/followers/novinbukannopin?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/novinbukannopin?style=for-the-badge&logo=github)
