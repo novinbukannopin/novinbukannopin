@@ -22,7 +22,7 @@ jobs:
         id: random_check
         run: |
           random_number=$((RANDOM % 2))
-          echo "::set-output name=do_commit::$random_number"
+          echo "name=do_commit::$random_number" >> $GITHUB_OUTPUT
         
       - name: Modify last update
         if: steps.random_check.outputs.do_commit == '1'
